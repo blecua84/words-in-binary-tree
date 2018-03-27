@@ -24,3 +24,9 @@ hs_err_pid*
 # INTELLIJ User-specific workspace:
 .idea/
 *.iml
+
+# gradle
+.gradle/
+
+# target
+out/
